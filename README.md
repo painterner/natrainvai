@@ -3,7 +3,7 @@ A Natural language AI powered video editor
 
 
 ## Concept
-*  Concept start: Using natural language guidance to capture a screenshot from a video
+*  Concept start: Using natural language guidance to capture a screenshot from a video, example:  just type "shot in 23 seconds", then the editor will get a related shot of the video
 
 *  Concept end: Completely replace ffmpeg functionality
 
